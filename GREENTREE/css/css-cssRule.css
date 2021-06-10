@@ -368,7 +368,7 @@ footer {
 }
 
 .column {
-  flex: 75%;
+  flex: 50%;
   padding: 5px;
 }
 .column1 {
@@ -382,6 +382,14 @@ topbot{
 	margin-top: 5%;
 	margin-bottom: 5%;
 }
-exc{
-	margin-bottom: 5%;
+list {
+  list-style: none; 
+}
+
+list li::before {
+  content: "\2022"; 
+  color: green; 
+  display: inline-block; 
+  width: 1em; 
+  margin-left: -1em; 
 }
