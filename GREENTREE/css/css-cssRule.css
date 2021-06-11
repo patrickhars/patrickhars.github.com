@@ -73,13 +73,15 @@ nav a:hover {
     text-align: center;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
     font-size: 60px;
-    margin-bottom: 0px;
-	margin-top: 5%;
+    margin-bottom: 0%;
+	margin-top: 2%;
 }
 .titleGreenLine {
     width: 10%;
     height: 2px;
 	margin-left: 45%;
+	margin-top: 0%;
+	margin-bottom: 0%;
 }
 .titleGreenLine2 {
     width: 20%;
@@ -226,7 +228,7 @@ footer {
 }
 #logo img{
 	padding-top: 3%;
-	padding-left: 20%;
+	padding-left: 60%;
 }
 .footerSentence {
 	text-align: left;
@@ -234,7 +236,8 @@ footer {
     color: white;
     font-size: 18px;
     letter-spacing: 1.5px;
-	margin-left: 65%;
+	margin-left: 5%;
+	margin-right: 53%;
 }
 .footerSentence1 {
 	text-align: left;
@@ -242,7 +245,7 @@ footer {
     color: white;
     font-size: 18px;
     letter-spacing: 1.5px;
-	margin-left: 65%;
+	margin-left: 5%;
 }
 .bottum-featured {
 }
@@ -281,7 +284,7 @@ footer {
 #logo img{
 	width: 62%;
 	height: 10%;
-	padding-left: 20%;
+	padding-left: 60%;
 	padding-top: 3%;
 }
 .footerSentence {
@@ -289,7 +292,8 @@ footer {
 	color: white;
 	font-size: 25px;
 	text-align: left;
-	margin-left: 65%;
+	margin-left: 5%;
+	margin-right: 53%;
 }
 .footerSentence1 {
 	text-align: left;
@@ -297,7 +301,7 @@ footer {
     color: white;
     font-size: 18px;
     letter-spacing: 1.5px;
-	margin-left: 65%;
+	margin-left: 5%;
 }
 .bottum-featured {
 	float:left;
