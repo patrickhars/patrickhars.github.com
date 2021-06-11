@@ -232,20 +232,21 @@ footer {
 }
 .footerSentence {
 	text-align: left;
-    margin-top: 3.5%;
+    margin-top: 3.2%;
     color: white;
     font-size: 18px;
     letter-spacing: 1.5px;
 	margin-left: 5%;
-	margin-right: 50%;
+	margin-right: 52%;
 }
 .footerSentence1 {
 	text-align: left;
-    margin-top: 3.5%;
+    margin-top: 3.2%;
     color: white;
     font-size: 18px;
     letter-spacing: 1.5px;
 	margin-left: 5%;
+	margin-right: 52%;
 }
 .bottum-featured {
 }
@@ -288,20 +289,21 @@ footer {
 	padding-top: 3%;
 }
 .footerSentence {
-	margin-top: 3.5%;
+	margin-top: 3.2%;
 	color: white;
 	font-size: 25px;
 	text-align: left;
 	margin-left: 5%;
-	margin-right: 50%;
+	margin-right: 52%;
 }
 .footerSentence1 {
 	text-align: left;
-    margin-top: 3.5%;
+    margin-top: 3.2%;
     color: white;
     font-size: 18px;
     letter-spacing: 1.5px;
 	margin-left: 5%;
+	margin-right: 52%;
 }
 .bottum-featured {
 	float:left;
