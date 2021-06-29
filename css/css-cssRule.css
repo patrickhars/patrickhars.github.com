@@ -235,6 +235,8 @@ footer {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 }
 #logo1 img{
+	width: 100px;
+	height: 97px;
 	padding-top: 3%;
 	padding-left: 60%;
 }
@@ -291,6 +293,8 @@ footer {
 	height: 105px;
 }
 #logo1 img{
+	width: 100px;
+	height: 97px;
 	padding-left: 60%;
 	padding-top: 3%;
 }
