@@ -234,7 +234,7 @@ footer {
 	background-color: #131313;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 }
-#logo img{
+#logo1 img{
 	padding-top: 3%;
 	padding-left: 60%;
 }
@@ -290,7 +290,7 @@ nav a {
 footer {
 	height: 105px;
 }
-#logo img{
+#logo1 img{
 	width: 62%;
 	height: 10%;
 	padding-left: 60%;
