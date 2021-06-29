@@ -153,6 +153,14 @@ article {
     font-size: 28px;
     text-align: center;
 }
+.featured5 {
+	width: 88%;
+	margin-right: 6%;
+	margin-left: 6%;
+	float: left;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 22px;
+margin-top: 0;}
 .featured3 hr {
 	margin-left: 40%;
 }
@@ -355,6 +363,13 @@ footer {
     font-size: 20px;
     text-align: center;
 	margin-bottom: 13%;
+}
+.featured5 {
+	width: 96%;
+	margin-right: 15%;
+	margin-left: 15%;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 22px;
 }
 .featured3 img {
 	width: 30%;
